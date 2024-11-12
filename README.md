@@ -23,4 +23,5 @@ To run the analysis, you will need to have the following dependencies installed:
 - Seaborn
 ## Conclusion
 This project demonstrates the application of exploratory data analysis techniques to gain a better understanding of earthquake patterns and characteristics. The insights gained can be useful for improving disaster preparedness and mitigation strategies.
+![Plotting of Number of Earthquakes per Month](https://github.com/user-attachments/assets/ae7f006a-89d9-4099-84a8-ae469921db83)
 
